@@ -3,3 +3,5 @@ git stash
 git pull
 pnpm install
 pnpm start
+
+# taskschd.msc

@@ -12,5 +12,5 @@ try {
     rsp = err?.stderr;
 }
 
-fs.appendFile('C:\\bin\\updater-client\\test.txt', `${new Date()}:\r\n${rsp}\r\n\r\n`);
+fs.appendFile('C:\\bin\\test.txt', `${new Date()}:\r\n${rsp}\r\n\r\n`);
 
