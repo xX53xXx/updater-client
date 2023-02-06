@@ -1,4 +1,6 @@
-import fs from 'fs/promises';
+console.log('Willkommen.');
+
+/*import fs from 'fs/promises';
 import { execSync } from 'child_process';
 
 let rsp = '';
@@ -14,3 +16,4 @@ try {
 
 fs.appendFile('C:\\bin\\test.txt', `${new Date()}:\r\n${rsp}\r\n\r\n`);
 
+*/
